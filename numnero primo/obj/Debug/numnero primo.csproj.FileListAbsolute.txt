@@ -1,0 +1,5 @@
+C:\Users\Mauricio M\Downloads\numnero primo\numnero primo\bin\Debug\numnero primo.exe.config
+C:\Users\Mauricio M\Downloads\numnero primo\numnero primo\bin\Debug\numnero primo.exe
+C:\Users\Mauricio M\Downloads\numnero primo\numnero primo\bin\Debug\numnero primo.pdb
+C:\Users\Mauricio M\Downloads\numnero primo\numnero primo\obj\Debug\numnero primo.exe
+C:\Users\Mauricio M\Downloads\numnero primo\numnero primo\obj\Debug\numnero primo.pdb
